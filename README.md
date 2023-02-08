@@ -11,7 +11,8 @@ pip install -r requirements.txt
 python tictactoe.py
 ```
 
-and navigate to `http://localhost:5000` then upload to aws
+and navigate to `http://localhost:5000` then upload to aws.
+You can [play](https://jxuucb4hph.us-east-1.awsapprunner.com) here.
 ![Example](./static/img/aws.jpg)
 ## Minimax
 Inside [game.py](https://github.com/XiaozheCheng/IDS-721-Project-1/blob/main/game.py) 
