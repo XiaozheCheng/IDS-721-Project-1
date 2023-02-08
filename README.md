@@ -12,7 +12,7 @@ python tictactoe.py
 ```
 
 and navigate to `http://localhost:5000` then upload to aws
-![Example](./static/img/example.png)
+![Example](./static/img/aws.jpg)
 ## Minimax
 Inside [game.py](https://github.com/XiaozheCheng/IDS-721-Project-1/blob/main/game.py) 
 is my implementation of the 
