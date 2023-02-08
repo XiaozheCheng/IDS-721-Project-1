@@ -1,4 +1,4 @@
-# Mini Game 
+# Mini Game: tic-tac-toe
 Mini tic-tac-toe game using Flask framework .  AI uses the minimax algorithm to calculate moves.
 
 ## Install
