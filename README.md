@@ -14,7 +14,7 @@ python tictactoe.py
 and navigate to `http://localhost:5000`
 
 ## Minimax
-Inside [game.py](https://github.com/Buuntu/minimax-algorithm/blob/master/game.py#L31) 
+Inside [game.py](https://github.com/XiaozheCheng/IDS-721-Project-1/blob/main/game.py) 
 is my implementation of the 
 [minimax](https://en.wikipedia.org/wiki/Minimax) algorithm.
 
